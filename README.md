@@ -1,10 +1,7 @@
-## Cristiane Pereira Domingues 
+ ### Welcome to my profile 👋!
 
-
- ### Hi there 👋. Welcome to my profile!
- 
-- 👩‍🦱  At the moment, I work with market research for the real estate sector.
-- 💻 I’m currently learning more about Git, GitHub, Programming Logic and Web Developer.
+- 👩🏻‍🦱 I'm Cristiane Domingues and Dev Student.
+- 💻 Currently learning more about Git, GitHub, Programming Logic, Web Developer and UX/UI.
 
 ## Coding Activity
 
