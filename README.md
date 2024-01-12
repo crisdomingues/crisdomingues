@@ -1,7 +1,7 @@
  ### Welcome to my profile 👋!
 
 - 👩🏻‍🦱 I'm Cristiane Domingues.
-- 💻 Currently learning more about Git, GitHub, Programming Logic, Web Developer and UX/UI.
+- 💻 Currently, learning more about Git, GitHub, Programming Logic, Web Developer and UX/UI.
 
 ## Coding Activity
 
