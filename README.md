@@ -1,7 +1,7 @@
  ### Hello! Welcome to my profile 👋!
 
 - 👩🏻‍🦱 I'm Cristiane Domingues.
-- 💻 Currently, learning more about Git, GitHub, Programming Logic, HTML, CSS, JavaScript, Python and Cloud Computing.
+- 💻 Currently, learning more about Git, GitHub, Programming Logic, HTML, CSS, JavaScript, Python and Cloud Computing (Azure).
 
 ## Coding Activity
 
